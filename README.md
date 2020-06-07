@@ -31,16 +31,26 @@ A total of 1427 example texts (lines) were used in the training dataset.
 <b>Model description (detailed descriptions are provided in each python notebook files)</b>
 
 Naive Bayes Model (Baseline)
+
 Removed stopwords
+
 Used Laplace smoothing
+
 Split 80% training, 20% testing 
 
+
 RNN-LSTM Models
+
 Model structure:
+
 Embedding layer (100 dimensions)
+
 LSTM layer (100 units)
+
 Dense layer
+
 Used early stopping to avoid overfitting
+
 Split 80% training, 20% testing
 
 
