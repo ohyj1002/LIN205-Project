@@ -3,7 +3,7 @@ This is a repository for LIN205 project.
 
 This project was designed to build text classifiers.
 
-<mark>Introduction and task description</mark>
+<b>Introduction and task description</b>
 
 The aim of this task is threefold.
 First, this task is based on Bales'(1950) theoretical discussion on coding communication/interaction processes into three categories. Bales (1950) suggested a theoretical framework for categorizing communcication processes. Originally, there are a total of 12 categories (ranging from "showing solidarity" to "showing antagonism"). These 12 categories can be simplified into 3 categories: Positive sociomotional area, Task (neutral) area, and Negative socioemotional area. Therefore, the first goal of the study is building text classifier that would successfully categorize human commmunication processes into the predefined categories.
